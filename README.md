@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- HEADER -->
+<p align="center">
+    <img src="./.github/lobinho.gif" width="px">
+    <br><br>
+    <samp>
+        👋 Hi there! I'm a Web Developer
+    </samp>
+<p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
