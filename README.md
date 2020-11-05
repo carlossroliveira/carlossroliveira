@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![linkedin Badge]]
+
 <!--
 **carlossroliveira/carlossroliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
