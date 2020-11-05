@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <p align="center">
     <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
         width="20" height="20" /> -->
