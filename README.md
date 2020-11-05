@@ -36,26 +36,3 @@ Here are some ideas to get you started:
     <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="20" height="20"/></p><p align="center">
 </p>
 
-<p align="center">
-    <a href="https://codepen.io/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="miguelrisquelme" height="20"
-            width="20" /></a>
-    <a href="https://twitter.com/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="miguelrisquelme" height="20"
-            width="20" /></a>
-    <a href="https://linkedin.com/in/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miguelrisquelme" height="20"
-            width="20" /></a>
-    <a href="https://stackoverflow.com/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="miguelrisquelme"
-            height="20" width="20" /></a>
-    <a href="https://codesandbox.com/u/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="miguelrisquelme"
-            height="20" width="20" /></a>
-    <a href="https://fb.com/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="miguelrisquelme" height="20"
-            width="20" /></a>
-    <a href="https://instagram.com/miguelrisquelme" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miguelrisquelme" height="20"
-            width="20" /></a>
-</p>
