@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-    Here we do projects with (JS, HTML, CSS) and more...
+    Here we do projects with (HTML, CSS, JS) and more...
 </p>
 <br>
 <!-- SOCIAL MEDIAS -->
