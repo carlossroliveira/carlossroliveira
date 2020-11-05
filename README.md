@@ -25,8 +25,10 @@ Here are some ideas to get you started:
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
         width="20" height="20" />
 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20"
-        height="20" />
+
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass"
+        width="20" height="20" />
+
 
 
 </p>
