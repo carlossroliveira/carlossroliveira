@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center" style="text-align: center;">
     Here we do projects with (HTML, CSS, JS) and more...
 </p>
-<br>
+<br> 
 <!-- SOCIAL MEDIAS -->
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
