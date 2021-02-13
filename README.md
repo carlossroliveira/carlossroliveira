@@ -2,7 +2,7 @@
 <p align="center">
     <br><br>
     <samp>
-        👋 Hi there! I'm a Web Developer
+        👋 Hi! I'm a Web Developer
     </samp>
 </p>
 
