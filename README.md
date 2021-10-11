@@ -1,17 +1,17 @@
 <!--- HEADER -->
-<p align="center">
-    <br><br>
-    <samp>
-        👋 Hi! I'm a Web Developer
-    </samp>
-</p>
+# Oi eu sou Carlos Oliveira
+### Eu estou atualmente estudando Analise e Desenvolvimento de Sistemas
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-    Here we do projects with (HTML, CSS, JS) and more...
+    Pouco tempo na área, mais venho implementando estratégias para obter bastante experiência como programador.
+    Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
+    Sempre em busca em aprender novas tecnologias como "React, TypeScript".
+    Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
 </p>
 <br>
 <!-- SOCIAL MEDIAS -->
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=2F74C0)
+![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=TypeScript)
