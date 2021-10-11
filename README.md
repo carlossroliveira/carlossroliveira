@@ -1,5 +1,5 @@
 <!--- HEADER -->
-# Oi eu sou Carlos Oliveira
+# Eu sou Carlos Oliveira
 ### Estou atualmente estudando Analise e Desenvolvimento de Sistemas
 
 <!-- ABOUT OF ME -->
