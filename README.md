@@ -1,6 +1,6 @@
 <!--- HEADER -->
 # Oi eu sou Carlos Oliveira
-### Eu estou atualmente estudando Analise e Desenvolvimento de Sistemas
+### Estou atualmente estudando Analise e Desenvolvimento de Sistemas
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
