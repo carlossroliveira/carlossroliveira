@@ -1,14 +1,13 @@
 <!--- HEADER -->
-# Eu sou Carlos Oliveira
+# Sou Carlos Oliveira
 ### Estou atualmente estudando Analise e Desenvolvimento de Sistemas
 
 <!-- ABOUT OF ME -->
-<p align="center" style="text-align: center;">
-    Pouco tempo na área, mais venho implementando estratégias para obter bastante experiência como programador.
-    Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
-    Sempre em busca em aprender novas tecnologias como "React, TypeScript".
-    Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
-</p>
+Pouco tempo na área, mais venho implementando estratégias para obter bastante experiência como programador.
+Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
+Sempre em busca em aprender novas tecnologias como "React, TypeScript".
+Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
+
 <br>
 <!-- SOCIAL MEDIAS -->
 
