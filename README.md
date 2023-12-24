@@ -5,7 +5,7 @@
 <!-- ABOUT OF ME -->
 Pouco tempo na área, mas venho implementando estratégias para obter bastante experiência como programador.
 Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
-Sempre em busca em aprender novas tecnologias como "React, TypeScript".
+Sempre em busca em aprender novas tecnologias como "Next.js e Graphql".
 Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
 
 <br>
