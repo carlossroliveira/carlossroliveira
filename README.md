@@ -1,8 +1,10 @@
 ## Bem-vindo! Eu sou Carlos Oliveira.
 
-Atualmente sou formado em análise e Desenvolvimento de Sistemas.
+Sou formado em análise e Desenvolvimento de Sistemas.
 
-Pouco tempo na área, mas venho implementando estratégias para obter bastante experiência como programador. Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado. Sempre em busca em aprender novas tecnologias como "Next.js e Graphql". Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
+Desenvolvedor Front-End com mais de dois anos de experiência em React.js, TypeScript e Styled Components. Tenho expertise em consumo de APIs RESTful e sou apaixonado por criar soluções inovadoras, priorizando qualidade de código com
+testes e boas práticas. Busco aprimoramento constante e desejo contribuir para projetos impactantes em ambientes colaborativos.
+
 
 <p align="center">
   <a href="https://github.com/carlossroliveira">
