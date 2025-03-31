@@ -1,9 +1,7 @@
 ### Bem-vindo! Eu sou Carlos Oliveira.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Front-End, com mais de dois anos de experiência. Trabalho com React.js, TypeScript e Styled Components, criando interfaces modernas e performáticas.
 
-Sou formado em análise e Desenvolvimento de Sistemas.
-
-Desenvolvedor Front-End com mais de dois anos de experiência em React.js, TypeScript e Styled Components. Tenho expertise em consumo de APIs RESTful e sou apaixonado por criar soluções inovadoras, priorizando qualidade de código com
-testes e boas práticas. Busco aprimoramento constante e desejo contribuir para projetos impactantes em ambientes colaborativos.
+Tenho experiência no consumo de APIs RESTful e foco em desenvolver soluções escaláveis, seguindo boas práticas e garantindo qualidade de código por meio de testes. Estou sempre em busca de aprendizado e inovação, pronto para contribuir em projetos desafiadores e colaborativos.
 
 
 <p align="center">
