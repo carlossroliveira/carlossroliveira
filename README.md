@@ -22,12 +22,12 @@ Tenho experiência no consumo de APIs RESTful e foco em desenvolver soluções e
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+    <img src="https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
     <img src="https://img.shields.io/badge/Storybook-rgb(255, 71, 133)?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
     <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" alt="testing"/>
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router"/>
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router"/>
-    <img src="https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    
 </p>
 
 ## Contato 📱
