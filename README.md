@@ -26,6 +26,8 @@ Tenho experiência no consumo de APIs RESTful e foco em desenvolver soluções e
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
     <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" alt="testing"/>
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router"/>
+    <img src="https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
 ## Contato 📱
