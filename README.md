@@ -1,17 +1,9 @@
-### Bem-vindo! Eu sou Carlos Oliveira.
+### Bem-vindo! Eu sou Carlos Oliveira. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 Sou formado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Front-End, com mais de dois anos de experiência. Trabalho com React.js, TypeScript e Styled Components, criando interfaces modernas e performáticas.
 
 Tenho experiência no consumo de APIs RESTful e foco em desenvolver soluções escaláveis, seguindo boas práticas e garantindo qualidade de código por meio de testes. Estou sempre em busca de aprendizado e inovação, pronto para contribuir em projetos desafiadores e colaborativos.
 
-
-<p align="center">
-  <a href="https://github.com/carlossroliveira">
-    <img align="center" height="200" width="400" src= "https://github-readme-stats.vercel.app/api?username=carlossroliveira&show_icons=true&theme=radical&layout=donut&bg_color=00,6C49D0,362293&title_color=FFF&icon_color=FFF&text_color=FFF"/>
-  </a>
-  <a href="https://github.com/carlossroliveira">
-    <img align="center" height="166" width="300" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlossroliveira&layout=donut&bg_color=00,6C49D0,362293&title_color=FFF&icon_color=FFF&text_color=FFF"/>
-  </a>
-</p>
 
 ## Habilidades 🚀
 
