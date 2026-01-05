@@ -1,4 +1,4 @@
-## Bem-vindo! Eu sou Carlos Oliveira. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Bem-vindo! Eu sou Carlos Oliveira. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Front-End, com mais de dois anos de experiência. Trabalho com React.js, TypeScript e Styled Components, criando interfaces modernas e performáticas.
 
